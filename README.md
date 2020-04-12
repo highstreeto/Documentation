@@ -10,7 +10,7 @@
 
 * [Basic C\# Mod](_tutorials/basic-csharp-mod.md) \(Requires a basic understanding of C\#\)
 * [Modding Gauntlet UIs Without C#](_tutorials/modding-gauntlet-without-csharp.md) \(Easy\)
-* [Packing your mods for Vortex](_tutorials/packing_mods_for_vortex) \(Easy\)
+* [Packing your mods for Vortex](_tutorials/packing_mods_for_vortex.md) \(Easy\)
 
 ## [C# API Documentation](_csharp-api/)
 
@@ -18,6 +18,7 @@
   * [GameMenu](_csharp-api/campaignsystem/gamemenu.md)
 * [Core](_csharp-api/core/)
 * [Engine](_csharp-api/engine/)
+  * [Scene](_csharp-api/engine/scene.md)
 * [InputSystem](_csharp-api/inputsystem/)
 * [Library](_csharp-api/library/)
 * [Localization](_csharp-api/localization/)
